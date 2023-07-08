@@ -1,6 +1,5 @@
-### About Me
-
 # 💫 About Me:
+
 🔭 I’m currently working on improving my web development skills<br>👯 I’m looking to collaborate on responsive web development projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning JavaScript <br> ⚡ Fun fact I'm a fast and devoted learner 
 
 
