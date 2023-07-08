@@ -1,7 +1,11 @@
 ### About Me
 
 # 💫 About Me:
-I'm a BEIT undergraduate<br>I'm learning web development<br>I have learnt HTML and CSS <br>Currently practicing JavaScript<br>Learning DSA in java 
+🔭 I’m currently working on improving my web development skills
+👯 I’m looking to collaborate on responsive web development projects
+🤝 I’m looking for help with 
+🌱 I’m currently learning JavaScript
+⚡ Fun fact I'm a fast and devoted learner 
 
 
 ## 🌐 Socials:
